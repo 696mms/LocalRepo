@@ -2,6 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<"WoW";
+    int i = 1;
+    while(i<=10)
+        cout<<"i love you"<<endl;
     return 0;
 }
